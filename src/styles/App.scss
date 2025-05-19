@@ -1,0 +1,21 @@
+.app {
+  --line-color: #e3e6ed;
+
+  --font-year-color: #3877ee;
+  --font-year-start: #5d5fef;
+  --font-year-end: #ef5da8;
+  --font-main: #42567a;
+
+  --circle-line-color: #d0d5e0;
+  --dot-unfocused-color: #42567a;
+  --dot-focused-color: #929aa9;
+
+  --bg-color: #f4f5f9;
+
+  background-color: #f4f5f9;
+
+  @media (width >= 1920px) {
+    padding-left: 320px;
+    padding-right: 160px;
+  }
+}
