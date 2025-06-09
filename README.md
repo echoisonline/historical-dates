@@ -10,8 +10,8 @@
 1. Клонируйте репозиторий:
 
 ```bash
-  git clone https://github.com/echoisonline/only-test.git
-  cd only-test
+  git clone https://github.com/echoisonline/historical-dates.git
+  cd historical-dates
 ```
 2. Установите зависимости:
 ```bash
